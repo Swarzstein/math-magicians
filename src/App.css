@@ -101,10 +101,12 @@ h2 {
   width: 388px;
   background-color: #636363;
   color: #fff;
-  text-align: end;
   border: none;
   font-size: larger;
   padding: 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 #calcButtons {
